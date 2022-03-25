@@ -1,1 +1,51 @@
+[
+    {  
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113214_541.PNG",
+      "name": "wall 1",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113216_788.PNG", 
+      "name": "Wall 2",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {  
+      "url”: "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113218_995.PNG",
+      "name": "wall 3",
+      "collections": "ios",
+      "author": "JNW"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113219_696.PNG",
 
+      "name": "Wall 4",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {  
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113221_962.PNG",
+      "name": "wall 5",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113224_410.PNG",
+      "name": "Wall 6",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {  
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113225_840.PNG",
+      "name": "wall 7",
+      "collections": "Floral",
+      "author": "JNW"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113226_986.PNG"
+      "name": "Wall 8",
+      "collections": "Gradient",
+      "author": "JNW"
+    }
+]
