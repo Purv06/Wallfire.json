@@ -387,4 +387,64 @@
       "name": "wall 60",
       "collections": "Minimal"
     }
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113410_306.PNG",
+      "name": "wall 61",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113412_306.PNG",
+      "name": "wall 62",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113426_760.PNG",
+      "name": "wall 63",
+      "collections": "Fluid"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113428_681.PNG",
+      "name": "wall 64",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113430_092.PNG",
+      "name": "wall 65",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113431_617.PNG",
+      "name": "wall 66",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113433_589.jpg",
+      "name": "wall 67",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113434_350.jpg",
+      "name": "wall 68",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113436_198.jpg",
+      "name": "wall 69",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113441_283.PNG",
+      "name": "wall 70",
+      "collections": "Nature"
+    }
 ]
