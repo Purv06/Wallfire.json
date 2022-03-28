@@ -211,7 +211,120 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113311_390.PNG",
       "name": "wall 31",
-      "thumbnail": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113311_390.PNG",
+      "collections": "Pastel"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113312_833.PNG",
+      "name": "wall 32",
+      "collections": "Pastel"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113313_900.PNG",
+      "name": "wall 33",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113314_660.PNG",
+      "name": "wall 34",
       "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113316_222.PNG",
+      "name": "wall 35",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113317_819.PNG",
+      "name": "wall 36",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113319_091.png",
+      "name": "wall 37",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113322_449.png",
+      "name": "wall 38",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113320_918.png",
+      "name": "wall 39",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113326_566.png",
+      "name": "wall 40",
+      "collections": "Abstract"
+    }
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113328_248.png",
+      "name": "wall 1",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113312_833.PNG",
+      "name": "wall 2",
+      "collections": "Pastel"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113313_900.PNG",
+      "name": "wall 3",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113314_660.PNG",
+      "name": "wall 4",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113316_222.PNG",
+      "name": "wall 5",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113317_819.PNG",
+      "name": "wall 6",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113319_091.png",
+      "name": "wall 7",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113322_449.png",
+      "name": "wall 8",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113320_918.png",
+      "name": "wall 9",
+      "collections": "Animals"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113326_566.png",
+      "name": "wall 10",
+      "collections": "Abstract"
     }
 ]
